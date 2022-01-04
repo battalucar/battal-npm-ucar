@@ -1,0 +1,24 @@
+{
+  "name": "battal-ucar",
+  "version": "1.0.0",
+  "description": "deneme projesi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "battal": "echo 'benim adim battal'.",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Battal Ucar",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/battalucar/battal-npm-ucar.git"
+  }
+}
